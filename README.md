@@ -16,8 +16,9 @@ I'm passionate about digital design and verification, specializing in RTL develo
 - **📡 Router 1x3 Design** - Complete RTL-to-FPGA implementation with verification
 - **⏰ Digital Alarm Clock** - Verilog-based design with LCD interface
 
-### 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartiks99&show_icons=true&theme=radical)
+-->
 
 ### 🌱 Currently Learning
 - Advanced UVM methodologies
